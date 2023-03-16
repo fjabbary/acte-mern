@@ -1,0 +1,29 @@
+table td {
+    vertical-align: middle;
+}
+
+.border-error {
+    border: 1px solid rgb(220, 53, 69);
+}
+
+i.bi {
+    cursor: pointer;
+}
+
+.user-form{
+    background-color: cadetblue;
+    width: 75%;
+}
+
+.btn-dark, .btn-success {
+    width: 100%;
+}
+
+.text-danger {
+    font-weight: bold;
+}
+
+.showForm {
+    height: 100%;
+    transition: all 1s ease-in-out;
+}
